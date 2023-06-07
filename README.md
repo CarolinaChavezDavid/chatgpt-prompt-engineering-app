@@ -25,3 +25,7 @@ Predicts new word, based on text training data.
 * Principle 2: Give the model time to think
   * Tactic 1: Specify the steps required to complete a task
   * Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion
+
+## Model Limitations
+* Hallucinations
+It can make statements that sounds plausible but are not true
