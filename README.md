@@ -29,3 +29,8 @@ Predicts new word, based on text training data.
 ## Model Limitations
 * Hallucinations
 It can make statements that sounds plausible but are not true
+
+<img width="400" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/f60098c0-36c5-4775-8a02-c8b3a592b607"> </br>
+Ther isn't a perfect prompt, It's more important to have a process for developing a good prompt for your specific application. 
+
+
