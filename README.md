@@ -5,7 +5,7 @@ GPT (Generative Pre-Trained Transformer)
 
 In these repository you can find information about how to engineer an effective prompt in order to create an application aid by ChatGPT
 
- GPT is model of languaje based on  redes neuronalesn capable of identifying our lenguaje, it is a genearative model, giving a text it can generate words
+ GPT is model of languaje based on a deep neural network architecture capable of identifying our lenguaje and generate coherent and contextually relevant resposnses, it is a genearative model, giving a text it can generate words
 
 ## Best practices
 
