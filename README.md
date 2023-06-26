@@ -41,6 +41,6 @@ Prompt engineering is a relatively new discipline for developing and optimizing 
 
 
 ## Sources of information
-[🔗](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) **ChatGPT Prompt Engineering for Developers** course from Open IA 
+[🔗](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) **ChatGPT Prompt Engineering for Developers** course from Open IA </br>
 [🔗](https://www.promptingguide.ai/)**Prompt Engineering Guide**
 
