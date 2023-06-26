@@ -33,6 +33,8 @@ Predicts new words based on text training data.
     <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/0b3f884f-04d1-47ec-8201-d307be7d1988">
 
   * Tactic 4: "Few-shot" prompting
+ 
+    
     <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/d7ac06bc-574f-4d36-9bf7-928a6a9ca9f6">
  
 * Principle 2: Give the model time to think
