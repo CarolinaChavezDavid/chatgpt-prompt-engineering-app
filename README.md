@@ -21,13 +21,29 @@ Predicts new words based on text training data.
 ## Principle of Prompting
 * Principle 1: Write clear and specific instructions
   * Tactic 1: Use delimiters to clearly indicate distinct parts of the input
+  * 
+    <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/c09626dc-6c64-4201-b121-39d32bb2a8c2">
+
   * Tactic 2: Ask for a structured output
+ 
+    <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/eb052404-2c85-4295-a544-3364816f42a6">
+
   * Tactic 3: Ask the model to check whether conditions are satisfied
+   
+    <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/0b3f884f-04d1-47ec-8201-d307be7d1988">
+
   * Tactic 4: "Few-shot" prompting
+    <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/d7ac06bc-574f-4d36-9bf7-928a6a9ca9f6">
  
 * Principle 2: Give the model time to think
   * Tactic 1: Specify the steps required to complete a task
+ 
+  <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/dc96efde-137b-4941-a995-288292e47a2a">
+ 
   * Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion
+ 
+  <img width="500" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/2e5df656-9215-469d-b01e-03f03e81d973">
+
 
 ## Model Limitations
 * Hallucinations
