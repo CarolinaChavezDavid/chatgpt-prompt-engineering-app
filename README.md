@@ -3,20 +3,20 @@
 ![inteligenciaaritificial](https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/f3ebb9fc-8d04-48cd-b6c2-2193ceefe2fb)
 GPT (Generative Pre-Trained Transformer)
 
-In these repository you can find information about how to engineer an effective prompt in order to create an application aid by ChatGPT
+In this repository, you can find information about how to engineer an effective prompt in order to create an application aid by ChatGPT
 
- GPT is model of languaje based on a deep neural network architecture capable of identifying our lenguaje and generate coherent and contextually relevant resposnses, it is a genearative model, giving a text it can generate words
+ GPT is a language model based on a deep neural network architecture capable of identifying our language and generate coherent and contextually relevant responses. It is a genealogical model, given a text, it can generate words
 
 ## Best practices
 
 ### LLMS (Large Language Models)
 ### Base LLM
-Predicts new word, based on text training data.
+Predicts new words based on text training data.
 ### Instruction Tuned LLM
-* Tries to follow instrucctions
-* Fine-tune on instructions and good attemps at following those instructions
-* It started as Base LLM and then is train with RLHF (ReinforcementLEarning with Human Feedback)
-* Helpful, Honest, Harmless
+* Tries to follow instructions
+* Fine-tune on instructions and make good attempts at following those instructions
+* It started as Base LLM and then was trained with RLHF (Reinforcement Learning with Human Feedback)
+* Helpful, Honest, and Harmless
 
 ## Principle of Prompting
 * Principle 1: Write clear and specific instructions
@@ -31,10 +31,10 @@ Predicts new word, based on text training data.
 
 ## Model Limitations
 * Hallucinations
-It can make statements that sounds plausible but are not true
+It can make statements that sound plausible but are not true
 
 <img width="400" alt="image" src="https://github.com/CarolinaChavezDavid/chatgpt-prompt-engineering-app/assets/77591347/f60098c0-36c5-4775-8a02-c8b3a592b607"> </br>
-Ther isn't a perfect prompt, It's more important to have a process for developing a good prompt for your specific application.
+There isn't a perfect prompt, It's more important to have a process for developing a good prompt for your specific application.
 
 ## Prompt engineering
 Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. 
@@ -42,4 +42,5 @@ Prompt engineering is a relatively new discipline for developing and optimizing 
 
 ## Sources of information
 [🔗](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) **ChatGPT Prompt Engineering for Developers** course from Open IA 
+[🔗](https://www.promptingguide.ai/)**Prompt Engineering Guide**
 
