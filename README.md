@@ -18,7 +18,7 @@ Predicts new words based on text training data.
 * It started as Base LLM and then was trained with RLHF (Reinforcement Learning with Human Feedback)
 * Helpful, Honest, and Harmless
 
-## Principle of Prompting
+## Principles of Prompting
 * Principle 1: Write clear and specific instructions
   * Tactic 1: Use delimiters to clearly indicate distinct parts of the input
   * 
@@ -60,5 +60,5 @@ Prompt engineering is a relatively new discipline for developing and optimizing 
 
 ## Sources of information
 [🔗](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) **ChatGPT Prompt Engineering for Developers** course from Open IA </br>
-[🔗] (https://www.promptingguide.ai/) **Prompt Engineering Guide**
+[🔗](https://www.promptingguide.ai/) **Prompt Engineering Guide**
 
